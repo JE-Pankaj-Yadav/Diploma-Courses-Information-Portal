@@ -127,7 +127,7 @@
 
                     <ul class="flex flex-wrap align-items-center p-0 m-0">
                         <li><a href="https://www.facebook.com/profile.php?id=100046285282145"><i class="fa fa-facebook"></i></a></li>
-                        <li><a href="https://t.me/py0354895"><i class="fa fa-telegram"></i></a></li>
+                        <li><a href="https://t.me/py*******"><i class="fa fa-telegram"></i></a></li>
                         <li><a href="mailto:py*******@gmail.com"><i class="fa fa-google-plus"></i></a></li>
                         <li><a href="https://www.instagram.com/pankaj_yadav_up53/"><i class="fa fa-instagram"></i></a></li>
                     </ul>
@@ -546,7 +546,7 @@
                                 <li><a href="https://www.facebook.com/profile.php?id=100046285282145"><i class="fa fa-facebook"></i></a></li>
                                 <li><a href="mailto:py*******@gmail.com"><i class="fa fa-google-plus"></i></a></li>
                                 <li><a href="https://www.instagram.com/pankaj_yadav_up53/"><i class="fa fa-instagram"></i></a></li>
-                                <li><a href="https://t.me/py0354895"><i class="fa fa-telegram"></i></a></li>
+                                <li><a href="https://t.me/py*******"><i class="fa fa-telegram"></i></a></li>
                             </ul>
                         </div><!-- .quick-links -->
                     </div><!-- .col -->

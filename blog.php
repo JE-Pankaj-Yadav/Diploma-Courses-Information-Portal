@@ -33,7 +33,7 @@
                     <div class="row">
                         <div class="col-12 col-lg-6 d-none d-md-flex flex-wrap justify-content-center justify-content-lg-start mb-3 mb-lg-0">
                             <div class="header-bar-email d-flex align-items-center">
-                                <i class="fa fa-envelope"></i><a href="mailto:py*******@gmail.com">py0354895@gmail,com</a>
+                                <i class="fa fa-envelope"></i><a href="mailto:py*******@gmail.com">py*******@gmail,com</a>
                             </div><!-- .header-bar-email -->
 
                             <div class="header-bar-text lg-flex align-items-center">
@@ -343,7 +343,7 @@
                                 <li><a href="https://www.facebook.com/profile.php?id=100046285282145"><i class="fa fa-facebook"></i></a></li>
                                 <li><a href="mailto:py*******@gmail.com"><i class="fa fa-google-plus"></i></a></li>
                                 <li><a href="https://www.instagram.com/pankaj_yadav_up53/"><i class="fa fa-instagram"></i></a></li>
-                                <li><a href="https://t.me/py0354895"><i class="fa fa-telegram"></i></a></li>
+                                <li><a href="https://t.me/py*******"><i class="fa fa-telegram"></i></a></li>
                             </ul>
                         </div><!-- .quick-links -->
                     </div><!-- .col -->
