@@ -33,11 +33,11 @@
                     <div class="row">
                         <div class="col-12 col-lg-6 d-none d-md-flex flex-wrap justify-content-center justify-content-lg-start mb-3 mb-lg-0">
                             <div class="header-bar-email d-flex align-items-center">
-                                <i class="fa fa-envelope"></i><a href="mailto:py0354895@gmail.com">Pankaj.py0354895@gmail.com</a>
+                                <i class="fa fa-envelope"></i><a href="mailto:py*******@gmail.com">Pankaj.py*******@gmail.com</a>
                             </div><!-- .header-bar-email -->
 
                             <div class="header-bar-text lg-flex align-items-center">
-                                <p><i class="fa fa-phone"></i>+91-9335288731 </p>
+                                <p><i class="fa fa-phone"></i>+91-933*****01 </p>
                             </div><!-- .header-bar-text -->
                         </div><!-- .col -->
 
@@ -128,7 +128,7 @@
                     <ul class="flex flex-wrap align-items-center p-0 m-0">
                         <li><a href="https://www.facebook.com/profile.php?id=100046285282145"><i class="fa fa-facebook"></i></a></li>
                         <li><a href="https://t.me/py0354895"><i class="fa fa-telegram"></i></a></li>
-                        <li><a href="mailto:py0354895@gmail.com"><i class="fa fa-google-plus"></i></a></li>
+                        <li><a href="mailto:py*******@gmail.com"><i class="fa fa-google-plus"></i></a></li>
                         <li><a href="https://www.instagram.com/pankaj_yadav_up53/"><i class="fa fa-instagram"></i></a></li>
                     </ul>
                 </div><!-- .post-share -->
@@ -560,8 +560,8 @@
                             <h2>Contact Us</h2>
 
                             <ul>
-                                <li>Email: py0354895@gmail.com</li>
-                                <li>Phone: (+91) 9335288731</li>
+                                <li>Email: py*******@gmail.com</li>
+                                <li>Phone: (+91) 933*****01</li>
                                 <li>Address: GORAKHPUR UTTAR PRADESH PIN CODE:273409</li>
                             </ul>
                         </div><!-- .foot-contact -->
@@ -587,7 +587,7 @@
 
                             <ul class="follow-us flex flex-wrap align-items-center">
                                 <li><a href="https://www.facebook.com/profile.php?id=100046285282145"><i class="fa fa-facebook"></i></a></li>
-                                <li><a href="mailto:py0354895@gmail.com"><i class="fa fa-google-plus"></i></a></li>
+                                <li><a href="mailto:py*******@gmail.com"><i class="fa fa-google-plus"></i></a></li>
                                 <li><a href="https://www.instagram.com/pankaj_yadav_up53/"><i class="fa fa-instagram"></i></a></li>
                                 <li><a href="https://t.me/py0354895"><i class="fa fa-telegram"></i></a></li>
                             </ul>

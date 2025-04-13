@@ -74,8 +74,8 @@ Want to improve this project? Here's how:
 ## 📧 Contact
 
 For questions or support:
-📧 Email: [py0354895@gmail.com](mailto:py0354895@gmail.com)  
-📞 Phone: +91-9335288731  
+📧 Email: [py*******@gmail.com](mailto:py*******@gmail.com)  
+📞 Phone: +91-933*****01  
 
 ---
 
